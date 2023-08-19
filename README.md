@@ -1,4 +1,4 @@
-# A simple keylogger for Windows, Linux 
+# A Simple Keylogger For Windows 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 [Website](https://simple-keylogger.github.io) - [Keylogger wiki](https://github.com/GiacomoLaw/Keylogger/wiki)
