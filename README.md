@@ -21,16 +21,10 @@ Or, view the `README.md` file in each programs folder for more up to date inform
 ### Installation
 Download & install 
 
-**Install it**:
-
-   https://bit.ly/3h7OBfK
-   - Self analysis
   **Install It**:	
 		
     git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
-
     cd text-keylogger
-
     python text-keylogger.py
 **Some uses of a keylogger are**:
 
