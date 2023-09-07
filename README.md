@@ -21,16 +21,21 @@ Or, view the `README.md` file in each programs folder for more up to date inform
 ### Installation
 Download & install 
 
-Install it:
+**Install it**:
 
-`$ git clone https://github.com/Er-Parag-Cyber/text-keylogger.git && cd text-keylogger`
+   https://bit.ly/3h7OBfK
+   - Self analysis
+  **Install It**:	
+		
+    git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
 
-`python text-keylogger.py`
+    cd text-keylogger
 
-Some uses of a keylogger are:
+    python text-keylogger.py
+**Some uses of a keylogger are**:
 
 - Business Administration: Monitor what employees are doing.
 - School/Institutions: Track keystrokes and log banned words in a file.
 - Personal Control and File Backup: Make sure no one is using your computer when you are away.
 - Parental Control: Track what your children are doing.
-- Self analysis
+
