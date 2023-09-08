@@ -22,7 +22,12 @@ Or, view the `README.md` file in each programs folder for more up to date inform
 Download & install 
 
   **Install It**:	
-		
+
+**Download Python**: 
+    https://www.python.org/downloads/
+
+    
+    pip3 install pynput  
     git clone https://github.com/Er-Parag-Cyber/Keylogger.git
     cd Keylogger
     python keylogger.py
