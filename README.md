@@ -26,11 +26,12 @@ Download & install
 **Download Python**: 
     https://www.python.org/downloads/
 
-    
-    pip3 install pynput  
-    git clone https://github.com/Er-Parag-Cyber/Keylogger.git
-    cd Keylogger
-    python keylogger.py
+ **Type This Command To The Terminal**:   
+     
+     pip3 install pynput  
+     git clone https://github.com/Er-Parag-Cyber/Keylogger.git
+     cd Keylogger
+     python keylogger.py
 **Some uses of a keylogger are**:
 
 - Business Administration: Monitor what employees are doing.
