@@ -23,8 +23,8 @@ Download & install
 
   **Install It**:	
 		
-    git clone https://github.com/Er-Parag-Cyber/keylogger.git
-    cd keylogger
+    git clone https://github.com/Er-Parag-Cyber/Keylogger.git
+    cd Keylogger
     python keylogger.py
 **Some uses of a keylogger are**:
 
