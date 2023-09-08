@@ -23,9 +23,9 @@ Download & install
 
   **Install It**:	
 		
-    git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
-    cd text-keylogger
-    python text-keylogger.py
+    git clone https://github.com/Er-Parag-Cyber/keylogger.git
+    cd keylogger
+    python keylogger.py
 **Some uses of a keylogger are**:
 
 - Business Administration: Monitor what employees are doing.
